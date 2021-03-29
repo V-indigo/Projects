@@ -1,0 +1,15 @@
+using System;
+
+namespace MyFirstApp
+{
+    class Program 
+    {
+        static void Main(string[] args)
+        {
+            /* I wish I could use single quotes like in JavaScript :/ */
+            string message = "Hello World!!";
+
+            Console.WriteLine(message);
+        }
+    }
+}
